@@ -1,0 +1,17 @@
+.btn {
+  margin-bottom: 30px;
+  width: 33%;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+#giraffe, #python, #penguin {
+  display: none;
+}
+
+.well {
+  text-align: center;
+  align-items: center;
+}
